@@ -1,0 +1,21 @@
+[
+  {
+    "name": "account1",
+    "email": "faturikhsanudin@gmail.com",
+    "password": "FaturIkhsanudin123.",
+    "created_at": "2026-09-09T11:09:13.412590",
+    "updated_at": "2026-09-09T11:10:47.370875"
+  },
+  {
+    "name": "accoun2",
+    "email": "usertestpkl@gmail.com",
+    "password": "user_000123",
+    "created_at": "2026-09-09T11:12:29.202825"
+  },
+  {
+    "name": "account3.json",
+    "email": "ridtes7@gmail.com",
+    "password": "R1dh0_000279",
+    "created_at": "2026-09-09T11:13:51.634160"
+  }
+]
